@@ -1,0 +1,7 @@
+C:\Users\alexa\Documents\Week4CodingPractice\Week4CodingPractice\Week4CodingPractice\bin\Debug\Week4CodingPractice.exe.config
+C:\Users\alexa\Documents\Week4CodingPractice\Week4CodingPractice\Week4CodingPractice\bin\Debug\Week4CodingPractice.exe
+C:\Users\alexa\Documents\Week4CodingPractice\Week4CodingPractice\Week4CodingPractice\bin\Debug\Week4CodingPractice.pdb
+C:\Users\alexa\Documents\Week4CodingPractice\Week4CodingPractice\Week4CodingPractice\obj\Debug\Week4CodingPractice.csprojAssemblyReference.cache
+C:\Users\alexa\Documents\Week4CodingPractice\Week4CodingPractice\Week4CodingPractice\obj\Debug\Week4CodingPractice.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\Week4CodingPractice\Week4CodingPractice\Week4CodingPractice\obj\Debug\Week4CodingPractice.exe
+C:\Users\alexa\Documents\Week4CodingPractice\Week4CodingPractice\Week4CodingPractice\obj\Debug\Week4CodingPractice.pdb
